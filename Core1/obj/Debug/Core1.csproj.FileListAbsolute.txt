@@ -1,0 +1,14 @@
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\Core1\bin\Debug\Core1.dll
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\Core1\bin\Debug\Core1.pdb
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\Core1\obj\Debug\Core1.dll
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\Core1\obj\Debug\Core1.pdb
+C:\Users\HP\Documents\QA\SolutionTest\Core1\bin\Debug\Core1.dll
+C:\Users\HP\Documents\QA\SolutionTest\Core1\bin\Debug\Core1.pdb
+C:\Users\HP\Documents\QA\SolutionTest\Core1\obj\Debug\Core1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\QA\SolutionTest\Core1\obj\Debug\Core1.dll
+C:\Users\HP\Documents\QA\SolutionTest\Core1\obj\Debug\Core1.pdb
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\Core1\bin\Debug\Core1.dll
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\Core1\bin\Debug\Core1.pdb
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\Core1\obj\Debug\Core1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\Core1\obj\Debug\Core1.dll
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\Core1\obj\Debug\Core1.pdb

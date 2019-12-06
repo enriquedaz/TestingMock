@@ -1,0 +1,24 @@
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\Cliente\bin\Debug\Cliente.exe.config
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\Cliente\bin\Debug\Cliente.exe
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\Cliente\bin\Debug\Cliente.pdb
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\Cliente\bin\Debug\Core1.dll
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\Cliente\bin\Debug\Core1.pdb
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\Cliente\obj\Debug\Cliente.exe
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\Cliente\obj\Debug\Cliente.pdb
+C:\Users\HP\Documents\QA\SolutionTest\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\HP\Documents\QA\SolutionTest\Cliente\obj\Debug\Cliente.exe
+C:\Users\HP\Documents\QA\SolutionTest\Cliente\obj\Debug\Cliente.pdb
+C:\Users\HP\Documents\QA\SolutionTest\Cliente\bin\Debug\Cliente.exe
+C:\Users\HP\Documents\QA\SolutionTest\Cliente\bin\Debug\Cliente.pdb
+C:\Users\HP\Documents\QA\SolutionTest\Cliente\bin\Debug\Core1.dll
+C:\Users\HP\Documents\QA\SolutionTest\Cliente\bin\Debug\Core1.pdb
+C:\Users\HP\Documents\QA\SolutionTest\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\Cliente\obj\Debug\Cliente.exe
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\Cliente\obj\Debug\Cliente.pdb
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\Cliente\bin\Debug\Cliente.exe
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\Cliente\bin\Debug\Cliente.pdb
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\Cliente\bin\Debug\Core1.dll
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\Cliente\bin\Debug\Core1.pdb
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache

@@ -1,0 +1,50 @@
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\CoreTest\bin\Debug\CoreTest.dll
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\CoreTest\bin\Debug\CoreTest.pdb
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\CoreTest\bin\Debug\Castle.Core.dll
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\CoreTest\bin\Debug\Core1.dll
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\CoreTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\CoreTest\bin\Debug\Moq.dll
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\CoreTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\CoreTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\CoreTest\bin\Debug\Core1.pdb
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\CoreTest\bin\Debug\Castle.Core.xml
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\CoreTest\bin\Debug\Moq.xml
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\CoreTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\CoreTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\CoreTest\obj\Debug\CoreTest.csprojResolveAssemblyReference.cache
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\CoreTest\obj\Debug\CoreTest.dll
+c:\users\labb5\documents\visual studio 2015\Projects\SolutionTest\CoreTest\obj\Debug\CoreTest.pdb
+C:\Users\HP\Documents\QA\SolutionTest\CoreTest\bin\Debug\CoreTest.dll
+C:\Users\HP\Documents\QA\SolutionTest\CoreTest\bin\Debug\CoreTest.pdb
+C:\Users\HP\Documents\QA\SolutionTest\CoreTest\bin\Debug\Castle.Core.dll
+C:\Users\HP\Documents\QA\SolutionTest\CoreTest\bin\Debug\Core1.dll
+C:\Users\HP\Documents\QA\SolutionTest\CoreTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\HP\Documents\QA\SolutionTest\CoreTest\bin\Debug\Moq.dll
+C:\Users\HP\Documents\QA\SolutionTest\CoreTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Documents\QA\SolutionTest\CoreTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Documents\QA\SolutionTest\CoreTest\bin\Debug\Core1.pdb
+C:\Users\HP\Documents\QA\SolutionTest\CoreTest\bin\Debug\Castle.Core.xml
+C:\Users\HP\Documents\QA\SolutionTest\CoreTest\bin\Debug\Moq.xml
+C:\Users\HP\Documents\QA\SolutionTest\CoreTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Documents\QA\SolutionTest\CoreTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Documents\QA\SolutionTest\CoreTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\HP\Documents\QA\SolutionTest\CoreTest\obj\Debug\CoreTest.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\QA\SolutionTest\CoreTest\obj\Debug\CoreTest.dll
+C:\Users\HP\Documents\QA\SolutionTest\CoreTest\obj\Debug\CoreTest.pdb
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\CoreTest\bin\Debug\CoreTest.dll
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\CoreTest\bin\Debug\CoreTest.pdb
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\CoreTest\bin\Debug\Castle.Core.dll
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\CoreTest\bin\Debug\Core1.dll
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\CoreTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\CoreTest\bin\Debug\Moq.dll
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\CoreTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\CoreTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\CoreTest\bin\Debug\Core1.pdb
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\CoreTest\bin\Debug\Castle.Core.xml
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\CoreTest\bin\Debug\Moq.xml
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\CoreTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\CoreTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\CoreTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\CoreTest\obj\Debug\CoreTest.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\CoreTest\obj\Debug\CoreTest.dll
+C:\Users\HP\Documents\QA\Modulo3\TestingMock\CoreTest\obj\Debug\CoreTest.pdb
